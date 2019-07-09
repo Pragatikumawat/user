@@ -1,0 +1,17 @@
+﻿<html>
+<head>
+<title> this is my first website</title>
+<h1>children's choice </h1>
+<style type="text/css">
+h1{color:pink;}
+</style>
+</head>
+<body>
+Function and design must meet at the right proportions in children's clothing for it to be popular and accepted. Fabric choices, openings and fastenings, fit and ease, trimmings used are all major considerations when designing children's wear. Some other factors a designer designing for children's clothing should focus on are the changing shape of the growing kid and different proportions of the different parts of the body.
+
+Leisure wear and sports wear are two very prominent design styles in children's clothing. Girls clothing are available in a wide range and styles.[1] Children's clothing is also sometimes worn by adult midgets, dwarves or short people.
+</body>
+
+<img src="images/mypic.jpg"/>
+
+</html>
